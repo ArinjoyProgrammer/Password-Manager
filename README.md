@@ -15,7 +15,7 @@ This is a **Password Manager** Application which is made using **Python**.
 
 ## If you have any ideas to improve this app? 🤔
 
-If you have any ideas to improve this app or to make it more secure just contact me on my discord [Click Here Contact Me On Discord!](https://discord.com/users/869192240038309898)
+If you have any ideas to improve this app or to make it more secure just contact me on my discord **[Click Here Contact Me On Discord!](https://discord.com/users/869192240038309898)**
 
 <br />
 
