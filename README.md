@@ -13,7 +13,7 @@ This is a **Password Manager** Application which is made using **Python**.
 
 <br />
 
-## How to use the Application
+## How to use the Application?
 
 To use the application you need to go to **[Documentation Page](docs\docs.md)**!
 
