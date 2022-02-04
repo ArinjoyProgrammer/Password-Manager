@@ -8,7 +8,7 @@ This is the small documentation of **Password Manager** Application which is mad
 
 - Firstly download using the download button
 - Then after downloading go to the directory where you have downloaded the file
-- After going there create a file named **toOpenAppPass.py** and write there **password = (type your password here)**
+- After going there create a file named **toOpenAppPass.py** and write there **password = "type your password here"**
 <br />
 
 - Then all done! Now just keep these **Passwords Secure**!!
