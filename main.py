@@ -1,11 +1,11 @@
-import toOpenAppPass
+import passOpen
 
 
 passAsking = input("what is the password to use PASSWORD MANAGER? ")
 
-if passAsking == toOpenAppPass.password:
+if passAsking == passOpen.password:
     pass
-elif passAsking != toOpenAppPass.password:
+elif passAsking != passOpen.password:
     print("Invalid Password! You have to choose the correct password to use PASSWORD MANAGER!")
 
 def view_pass():
